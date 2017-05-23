@@ -19,6 +19,8 @@ export function fetchWeather(city) {
 }
 
 
+
+
 //Doing AJAX requests in redux is complicated the first time we do it!
 
 //middlewares are functions that take an action, and depending on the action's type and payload, the middleware can let the action pass through, manipulate it or stop it alltogether before they reach any reducer!  They're gatekeepers!
