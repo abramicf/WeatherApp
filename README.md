@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# WeatherApp
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+###To get started, fork and clone this file to your local machine, navigate to the folder in the terminal and type the following commands:
 > npm install
 > npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+###The site will render at 127.0.0.1:8080
 
-```
-> npm install
-> npm start
+###Full Disclosure:  This site was created as part of an Udemy Course (Modern React and Redux - Stephen Grider).
 ```
