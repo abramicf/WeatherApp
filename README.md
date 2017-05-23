@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-###To get started, fork and clone this file to your local machine, navigate to the folder in the terminal and type the following commands:
+###To get started, fork and clone this repo to your local machine, navigate to the repo folder in your terminal and type the following commands:
 > npm install
 > npm start
 
